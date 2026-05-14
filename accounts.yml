@@ -1,0 +1,15 @@
+
+build:
+    version: "3.0"
+
+accounts:
+  message: "welcome to eazybank accounts related local APIs"
+  contactDetails:
+    name : "Aishwarya Reddy - Developer"
+    email: "aishwaryareddykat@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (333) 234-1345
+
+
+
