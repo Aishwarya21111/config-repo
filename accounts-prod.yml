@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to eazybank accounts related to production APIs"
+  message: "welcome to eazybank accounts related to prod APIs"
   contactDetails:
     name : " Abhimanyu Singh  - DevOps"
     email: "abhi123@gmail.com"
